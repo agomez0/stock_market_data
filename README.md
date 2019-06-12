@@ -1,5 +1,7 @@
 # Stock Market Data
 
+![stocks](Images/stockmarket.jpg)
+
 Created a VBA script that loops through each year of stock data and calculates the total amount of volume that each stock had over the year.
 
 * All the ticker symbols were displayed in a separate column with the stock volumes in a corresponding column. 
