@@ -1,4 +1,4 @@
-# Market Stock Data
+# Stock Market Data
 
 Created a VBA script that loops through each year of stock data and calculates the total amount of volume that each stock had over the year.
 
