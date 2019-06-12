@@ -5,7 +5,7 @@ Created a VBA script that loops through each year of stock data and calculates t
 * All the ticker symbols were displayed in a separate column with the stock volumes in a corresponding column. 
 
 ### Files: 
-* [Stock Data](Multiple_year_stock_data.xlsx) - Stock data 2014-2016.
+* [Stock Data](Multiple_year_stock_data.xlsm) - Stock data 2014-2016.
 
 
 ![2014 Stocks](Images/stock_data_2014.png)
